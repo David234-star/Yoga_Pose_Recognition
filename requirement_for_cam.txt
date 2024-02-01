@@ -1,0 +1,5 @@
+1.For executing this system we used a mobile phone camera, due to that we have installed a software called iVCam,which mobile camera with PC
+Here is the link of the software iVCam:https://www.e2esoft.com/ivcam/
+
+2.We have to download this app in mobile phone also
+for that here is the link iVCam WebCam:https://play.google.com/store/apps/details?id=com.e2esoft.ivcam

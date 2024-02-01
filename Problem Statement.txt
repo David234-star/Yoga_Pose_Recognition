@@ -1,0 +1,1 @@
+Create a Yoga Tracking System for minimum of 4 yoga asanas and display the respective yoga asana name on the screen when that asana is made.
